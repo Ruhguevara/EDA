@@ -9,7 +9,6 @@ Created on Wed Sep  9 09:53:47 2020
 # Librería de la clase CDIN
 
 import pandas as pd
-import numpy as np
 import string
 
 class CDIN:
